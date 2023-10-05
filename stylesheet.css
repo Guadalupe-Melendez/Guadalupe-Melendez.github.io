@@ -1,5 +1,18 @@
+/* Style Selector */
 h3 {
     text-align: center;
-    color: blue;
-    size: 36px;
+    color: forestgreen;
+    size: 54px;
+}
+
+p {
+    text-align: center;
+    color: green;
+    size: 54px;
+}
+
+/* Class */
+.paragraph {
+    font-style: Helvetica;
+    color: green;
 }
