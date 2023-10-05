@@ -2,17 +2,23 @@
 h3 {
     text-align: center;
     color: forestgreen;
-    size: 54px;
+    size: 65px;
 }
 
 p {
     text-align: center;
     color: green;
-    size: 48px;
+    size: 54px;
 }
 
 /* Class */
 .formatted-paragraph {
     font-style: Helvetica;
     color: palegreen;
+}
+
+/* ID */
+#custom-link {
+    font-size: 48;
+    color: pink;
 }
