@@ -8,11 +8,11 @@ h3 {
 p {
     text-align: center;
     color: green;
-    size: 54px;
+    size: 48px;
 }
 
 /* Class */
 .paragraph {
     font-style: Helvetica;
-    color: green;
+    color: palegreen;
 }
