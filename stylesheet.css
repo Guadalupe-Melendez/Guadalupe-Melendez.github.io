@@ -12,7 +12,7 @@ p {
 }
 
 /* Class */
-.paragraph {
+.formatted-paragraph {
     font-style: Helvetica;
     color: palegreen;
 }
