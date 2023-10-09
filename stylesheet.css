@@ -2,14 +2,14 @@
 h3 {
     text-align: center;
     color: forestgreen;
-    size: 65px;
+    size: 80px;
 }
 
 .content-box {
     background-color: lightskyblue;
     padding: 20px;
     text-align: left;
-    width: 300px;
+    width: 500px;
 }
 
 .content-box p {
