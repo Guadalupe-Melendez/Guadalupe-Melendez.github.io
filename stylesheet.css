@@ -5,7 +5,14 @@ h3 {
     size: 65px;
 }
 
-p {
+.content-box {
+    background-color: lightskyblue;
+    padding: 20px;
+    text-align: left;
+    width: 300px;
+}
+
+.content-box p {
     text-align: center;
     color: green;
     size: 54px;
@@ -18,7 +25,7 @@ p {
 }
 
 /* ID */
-#custom-link{
+#custom-link {
     font-size: 48;
     color: pink;
 }
