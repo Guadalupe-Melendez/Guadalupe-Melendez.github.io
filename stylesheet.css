@@ -2,7 +2,7 @@
 h3 {
     text-align: center;
     color: forestgreen;
-    size: 80px;
+    size: 120px;
 }
 
 /* Content box edits */
@@ -22,7 +22,7 @@ h3 {
 /* Class */
 .formatted-paragraph {
     font-style: Helvetica;
-    color: palegreen;
+    color: darkslategrey;
 }
 
 /* ID */
