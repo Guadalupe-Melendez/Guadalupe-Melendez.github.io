@@ -18,7 +18,11 @@ p {
 }
 
 /* ID */
-#custom-link {
+#custom-link{
     font-size: 48;
     color: pink;
+}
+
+#custom-link:hover {
+    color: purple;
 }
